@@ -1,0 +1,6 @@
+{
+  "id": "blur-ob",
+  "name": "BlurOb",
+  "version": "0.0.1",
+  "main": "dist/main.js"
+}
